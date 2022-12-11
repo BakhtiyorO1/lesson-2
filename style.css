@@ -83,7 +83,7 @@ header {
 }
 header section {
     width: 70%;
-    height: 150%;
+    height: 100%;
 }
 header aside {
     width: 29%;
@@ -134,7 +134,7 @@ header {
     }
     header section {
         width: 80%;
-        height: 900px;
+        height: 1500px;
         margin-top: 40px;
     }
     header aside {
